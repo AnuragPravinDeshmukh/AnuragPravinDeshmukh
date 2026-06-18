@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Anurag]</h1>
-<h3 align="center">Data Analytics & Data Science Learner | Python | SQL | Power BI | Building projects and growing every day 🚀</h3>
+<h1 align="center">Hi 👋, I'm Anurag</h1>
+<h2 align="center">Data Analytics & Data Science Learner | Python | SQL | Power BI | Building projects and growing every day 🚀</h2>
 
 ---
 
