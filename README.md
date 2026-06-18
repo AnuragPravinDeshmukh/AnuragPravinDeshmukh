@@ -86,28 +86,6 @@ I'm a data professional who enjoys digging into messy datasets and pulling out i
 - 🔄 **Adaptability** — Comfortable switching between tools (Excel ↔ SQL ↔ Python ↔ BI tools) depending on the task
 - 👥 **Team Collaboration** — Working cross-functionally with product, marketing, and leadership teams
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
-
-### 📌 Featured Projects
-
-| Project | Description | Tools Used |
-|---|---|---|
-| [Project Name 1](#) | Brief one-line description of the project and the business problem it solved | Python, Pandas, SQL |
-| [Project Name 2](#) | Brief one-line description of the project and the business problem it solved | Power BI, Excel |
-| [Project Name 3](#) | Brief one-line description of the project and the business problem it solved | Tableau, SQL |
-
----
-
 <p align="center"><i>📊 "Data will talk to you if you're willing to listen." – Jim Bergeson</i></p>
