@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Anurag]</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist | Turning Raw Data into Real Decisions</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<h3 align="center">Data Analytics & Data Science Learner | Python | SQL | Power BI | Building projects and growing every day 🚀</h3>
 
 ---
 
