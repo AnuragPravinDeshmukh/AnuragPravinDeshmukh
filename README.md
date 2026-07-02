@@ -11,7 +11,7 @@ I'm a data professional who enjoys digging into messy datasets and pulling out i
 - 📊 I love turning numbers into **stories that drive decisions**
 - 🌱 Always learning — currently exploring deeper **Machine Learning** and advanced **Statistics**
 - 🤝 I enjoy collaborating with cross-functional teams to solve real business problems
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **anuragdeshmukh600@gmail.com**
 
 ---
 
